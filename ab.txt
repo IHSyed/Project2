@@ -5,3 +5,6 @@ Today is Monday 17th Aug 2020
 additional commit to work on fast-forward
 
 One more change for merge commit thru Smartgit
+
+Additional change for Rebase in master branch
+
