@@ -7,3 +7,4 @@ A change in master for Merge Commit Example
 
 Updated for REBASE in demorebase Branch
 
+Change made for Rebase in UI
