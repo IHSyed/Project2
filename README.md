@@ -5,6 +5,10 @@
 
 ###### By Iqbal Hussain Syed
 
-This is a *BOLD* Text 
+This is a **BOLD** Text 
 
 ***All of this Exercise is Very Important***
+
+In The words of *Abraham Lincoln*
+
+> **Pardon my French**
