@@ -1,6 +1,10 @@
 # Project2
 
 
-## This is my Project ##
+## This is my Project 
 
-** This is a *BOLD* Text **
+###### By Iqbal Hussain Syed
+
+This is a *BOLD* Text 
+
+*** All of this Exercise is Very Important ***
