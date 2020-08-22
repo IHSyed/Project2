@@ -7,4 +7,4 @@
 
 This is a *BOLD* Text 
 
-*** All of this Exercise is Very Important ***
+***All of this Exercise is Very Important***
